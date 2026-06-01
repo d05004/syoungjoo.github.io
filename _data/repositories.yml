@@ -2,6 +2,7 @@ github_users:
   - koreacsl
 
 github_repos:
+  - koreacsl/SysDiver
   - koreacsl/BMC_dataset
   - koreacsl/MimicCall
   - koreacsl/PathFault
