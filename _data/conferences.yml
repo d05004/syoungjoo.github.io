@@ -91,7 +91,7 @@
   link: https://www.ieee-security.org/TC/CSF2027/
   dblp: https://dblp.org/db/conf/csfw/index.html
   deadline:
-    - "2026-08-08 23:59"
+    - "2026-08-03 23:59"
     - "2026-10-15 23:59"
     - "2027-01-28 23:59"
   date: TBA
@@ -332,7 +332,7 @@
   year: 2027
   link: https://pkc.iacr.org/2027/
   dblp: https://dblp.org/db/conf/pkc/index.html
-  deadline: ["2026-08-03 23:59"]
+  deadline: ["2026-08-16 23:59"]
   date: March 1-4
   place: Taipei, Taiwan
   tags: [CRYPTO, CONF, CORE-B]
@@ -2130,3 +2130,14 @@
   date: October 9-11, 2026
   place: New York City, USA
   tags: [SEC, SHOP, OTHERS]
+
+- name: AIDC
+  description: Workshop on Agentic AI in Offensive and Defensive Cyber Operations
+  year: 2026
+  link: https://aidcworkshop.github.io/
+  deadline: ["2026-09-25 23:59"]
+  comment: Co-located with ACSAC 2026
+  date: December 7
+  place: Los Angeles, California
+  tags: [SEC, PRIV, CRYPTO, SHOP, OTHERS]
+
