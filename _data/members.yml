@@ -56,13 +56,6 @@ ms:
     interests: System Security, Side-channel Attacks
     links:
       homepage: https://holly-bush-0cc.notion.site/Se-Lynn-Kim-843ff95c9df941fe9cf12581bd426797
-  - name: Junseok Ko
-    cohort: "47th"
-    email: junseokk
-    image: members/junseokk.jpg
-    interests: System Security, Microarchitectural Side-channel Attacks
-    links:
-      homepage: https://www.notion.so/CV-of-Jun-Seok-Ko-fea7fff4592d4a999b9f0ee33edc637e
   - name: Seonghun Park
     cohort: "49th"
     email: qkrtjdgns147
@@ -267,6 +260,10 @@ alumni:
     degree: M.S. Course
     cohort: "47th"
     affiliation: Samsung SDS
+  - name: Junseok Ko
+    degree: M.S. Course
+    cohort: "47th"
+    affiliation: PNPSECURE
   - name: Miok Im
     affiliation: TmaxSoft
   - name: Soojin Kim
