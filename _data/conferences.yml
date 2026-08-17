@@ -183,6 +183,17 @@
   place: Gothenburg, Sweden
   tags: [SEC, CONF, CORE-C]
 
+- name: DFC Europe
+  description: Digital Forensics Conference Europe
+  year: 2027
+  link: https://dfrws.org/conferences/dfceurope2027/
+  dblp: https://dblp.org/db/conf/dfrws/index.html
+  deadline: ["2026-09-25 23:59"]
+  comment: Abstract and title registration required by September 18, 2026 (AoE).
+  date: March 30-April 2
+  place: Edinburgh, Scotland
+  tags: [SEC, CONF, OTHERS]
+
 # Privacy
 
 - name: PETS
@@ -1082,12 +1093,12 @@
 
 - name: ICSS
   description: Industrial Control System Security Workshop
-  year: 2024
-  link: https://www.acsac.org/2024/workshops/icss/
-  deadline: ["2024-09-12 23:59"]
+  year: 2026
+  link: https://www.acsac.org/2026/workshops/icss/
+  deadline: ["2026-08-28 23:59"]
   comment: In conjunction with ACSAC
-  date: December 10
-  place: Waikiki, Hawaii, USA
+  date: December 8
+  place: Los Angeles, California, USA
   tags: [SEC, SHOP, OTHERS]
 
 - name: WEB3SEC
