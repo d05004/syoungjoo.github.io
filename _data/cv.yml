@@ -78,6 +78,18 @@ cv:
       - Youngjoo Shin
       date: '2026'
       journal: Computers \& Security
+    - title: 'RandDelay: Mitigating Fine-Grained Timing-Based Controlled-Channel Attacks on Intel TDX
+        via Randomized SEAMCALL Latency'
+      authors:
+      - Youngjoo Shin
+      date: '2026'
+      journal: Electronics
+    - title: Exploiting Intel Integrated GPU for Covert Channel Attack in the Cloud Computing
+      authors:
+      - Taehun Kim
+      - Youngjoo Shin
+      date: '2026'
+      journal: IEICE Transactions on Information and Systems
     - title: Input-Agnostic Runtime Metric Based Memory Optimization for Serverless Functions
       authors:
       - Seunghun Kim
