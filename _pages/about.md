@@ -196,7 +196,7 @@ applicant, please reach out to Prof. Shin by email.
     <img src="{{ '/assets/img/site/ku_logo.png' | relative_url }}" alt="Korea University">
   </div>
   <div class="address">
-    <strong>Robot Convergence Bld. Office 212</strong><br>
+    <strong>Robot Convergence Bld. Office 301</strong><br>
     145 Anam-ro, Seongbuk-gu, Seoul 02841, Korea
   </div>
 </div>
