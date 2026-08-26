@@ -72,18 +72,21 @@ cv:
       position: Research Assistant
       date: 2006.3 – 2007.12
     publications:
+    - title: 'AsyncMiss: Exploiting Failed Pathname Lookup for an Asynchronous Covert Channel'
+      authors:
+      - Hongkuk Yoon
+      - Hodong Kim
+      - Seunghee Shin
+      - Youngjoo Shin
+      - Junbeom Hur
+      date: '2026'
+      journal: International Conference on Cryptology and Network Security
     - title: A Systematic Survey of Side-Channel Attack Surfaces in Intel TDX
       authors:
       - Taehun Kim
       - Youngjoo Shin
       date: '2026'
       journal: Computers \& Security
-    - title: 'RandDelay: Mitigating Fine-Grained Timing-Based Controlled-Channel Attacks on Intel TDX
-        via Randomized SEAMCALL Latency'
-      authors:
-      - Youngjoo Shin
-      date: '2026'
-      journal: Electronics
     - title: Exploiting Intel Integrated GPU for Covert Channel Attack in the Cloud Computing
       authors:
       - Taehun Kim
