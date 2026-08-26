@@ -84,9 +84,9 @@ nav_order: 8
       <strong>Professor's Office</strong> — Jung Un-Oh IT Building, Room 320
       <span class="sub">145 Anam-ro, Seongbuk-gu, Seoul 02841, Republic of Korea</span>
       <span class="sub" lang="ko">서울특별시 성북구 안암로 145 고려대학교 정운오IT교양관 320호</span>
-      <div style="margin-top: 0.6rem;"><strong>Student Lab</strong> — Robot Convergence Building, Room 212</div>
+      <div style="margin-top: 0.6rem;"><strong>Student Lab</strong> — Robot Convergence Building, Room 301</div>
       <span class="sub">145 Anam-ro, Seongbuk-gu, Seoul 02841, Republic of Korea</span>
-      <span class="sub" lang="ko">서울특별시 성북구 안암로 145 고려대학교 로봇융합관 212호</span>
+      <span class="sub" lang="ko">서울특별시 성북구 안암로 145 고려대학교 로봇융합관 301호</span>
     </span>
   </div>
 
@@ -108,6 +108,6 @@ nav_order: 8
     <li><strong>Subway</strong> — Line 6 <em>Korea Univ. Station</em> (Exit 1 or 3), about 10 min walk to Robot Convergence Building.</li>
     <li><strong>Bus</strong> — Green buses 1017, 1018, 7211; Blue bus 273 stop at <em>Korea Univ. Anam Hospital</em>.</li>
     <li><strong>By car</strong> — Enter through the main gate on Anam-ro; visitor parking is available in front of the Engineering Complex.</li>
-    <li><strong>On campus</strong> — Robot Convergence Building (로봇융합관) is located near the Engineering Quad. Head to Room 212 on the 2nd floor.</li>
+    <li><strong>On campus</strong> — Robot Convergence Building (로봇융합관) is located near the Engineering Quad. Head to Room 301 on the 3rd floor.</li>
   </ul>
 </div>
