@@ -141,8 +141,8 @@ groups:
     items:
       - id: KVE-2025-0470
         url: https://knvd.krcert.or.kr/
-        title: Remote Code Execution in AhnLab V3 Lite
-        tag: rce
+        title: Out-of-bounds Write in AhnLab V3 Lite
+        tag: lpe
         reporter: Chanhee Park
         category: Binary analysis
         desc: |
@@ -162,8 +162,8 @@ groups:
 
       - id: KVE-2025-0472
         url: https://knvd.krcert.or.kr/
-        title: Remote Code Execution in AhnLab V3 Lite
-        tag: rce
+        title: Out-of-bounds Read in AhnLab V3 Lite
+        tag: dos
         reporter: Chanhee Park
         category: Binary analysis
         desc: |
@@ -249,8 +249,8 @@ groups:
       - id: CVE-2024-37027
         url: https://nvd.nist.gov/vuln/detail/CVE-2024-37027
         title: Improper Input Validation in Intel Developer Toolkits
-        tag: rce
-        tag_label: Local DoS / RCE
+        tag: dos
+        tag_label: OOB Write / DOS
         reporter: Chanhee Park
         category: Driver / toolchain
         desc: |
