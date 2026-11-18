@@ -146,7 +146,7 @@ groups:
         reporter: Chanhee Park
         category: Binary analysis
         desc: |
-          Remote code execution vulnerability identified in AhnLab V3 Lite, a
+          Out-of-bounds Write  vulnerability identified in AhnLab V3 Lite, a
           consumer anti-malware product widely deployed in Korea. Reported to
           the vendor and coordinated through KrCERT/CC.
 
@@ -167,8 +167,8 @@ groups:
         reporter: Chanhee Park
         category: Binary analysis
         desc: |
-          Second RCE primitive affecting AhnLab V3 Lite, distinct from
-          KVE-2025-0470. Disclosed in coordination with the vendor.
+          Out-of-bounds Read vulnerability identified in AhnLab V3 Lite. Disclosed in
+          coordination with the vendor.
 
       - id: KVE-2025-0473
         url: https://knvd.krcert.or.kr/
